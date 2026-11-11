@@ -51,7 +51,7 @@ if (enquiryForm) {
       `Request: ${data.get("message")}`
     ].join("\n");
 
-    const whatsappUrl = `https://wa.me/2349073884665?text=${encodeURIComponent(message)}`;
+    const whatsappUrl = `https://wa.me/2349072994665?text=${encodeURIComponent(message)}`;
     formStatus.textContent = "Opening WhatsApp with your enquiry details…";
     window.open(whatsappUrl, "_blank", "noopener,noreferrer");
   });

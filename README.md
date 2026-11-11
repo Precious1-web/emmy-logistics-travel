@@ -13,7 +13,7 @@ A responsive, minimalist static website for Emmy Logistics & Travel.
 - Ticket booking
 
 ## Business contact details
-- Phone / WhatsApp: +234 907 388 4665
+- Phone / WhatsApp: 09072994665 (+234 907 299 4665)
 - Email: marcellinemmanuel40@gmail.com
 - Location: Benin City, Edo State, Nigeria
 
@@ -82,3 +82,10 @@ Vercel will automatically deploy the latest GitHub changes.
 - The photos are loaded from Unsplash over the internet. An internet connection is required to display them. Replace them with licensed business photography if you have your own images.
 - Confirm that all services, operating arrangements, contact details and any required business/legal notices are accurate before publishing.
 - Visa and passport wording is framed as assistance/guidance; do not imply that Emmy is a government agency or guarantees approvals.
+
+
+## Developer credit
+The website footer displays: Designed & Developed by Precious Marcellin — 09072994665.
+
+
+Developer credit: Precious Marcellin — 09136253761.

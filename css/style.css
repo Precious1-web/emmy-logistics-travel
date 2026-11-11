@@ -191,6 +191,8 @@ h1 em, h2 em { color: var(--gold); font-style: normal; }
   .form-heading p { margin-top: 5px; }
 }
 
+
+/* Developer credit at the bottom of the footer */
 .developer-credit {
   text-align: center;
   padding: 16px 15px;
@@ -199,15 +201,18 @@ h1 em, h2 em { color: var(--gold); font-style: normal; }
   font-size: 12px;
   letter-spacing: 0.3px;
 }
-
 .developer-credit strong {
   color: #ffffff;
   margin-left: 4px;
 }
-
-.developer-credit span {
+.developer-credit a {
   display: block;
-  margin-top: 5px;
+  width: fit-content;
+  margin: 5px auto 0;
   color: #dca43b;
   font-size: 11px;
+}
+.developer-credit a:hover {
+  color: #edb84f;
+  text-decoration: underline;
 }
